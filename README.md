@@ -2,9 +2,9 @@
 
 # Deploy a Locust load generator in ECS using CDK Python 
 
-This lab is provided as part of **[AWS Innovate - Modern Applications Edition](https://aws.amazon.com/events/aws-innovate/modern-apps/)**, click [here](https://google.com) to explore the full list of hands-on labs.
+This lab is provided as part of [AWS Innovate Modern Applications Edition](https://aws.amazon.com/events/aws-innovate/modern-apps/), click [here](https://github.com/phonghuule/aws-innovate-modern-applications) to explore the full list of hands-on labs.
 
-ℹ️ You will run this lab in your own AWS account. Please follow directions at the end of the lab to remove resources to minimize costs.
+ℹ️ You will run this lab in your own AWS account. Please follow directions at the end of the lab to remove resources to avoid future costs.
 
 This lab walks you through creating a CDK project in Python that will implement 
 an ECS Service running [Locust.io](https://locust.io/). Using CDK constructs 
