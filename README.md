@@ -327,5 +327,4 @@ CDKToolkit stack. This will delete the S3 bucket that CDK created for storing
 temporary assets. Finally, go to the Elastic Container Repository console and
 delete the "aws-cdk/assets" repository.
 
-## Survey
-Please help us to provide your feedback [here](https://amazonmr.au1.qualtrics.com/jfe/form/SV_6x7UgBL9FHn59dA?Session=HOL2). Participants who complete the surveys from AWS Innovate Online Conference - Modern Applications Edition will receive a gift code for USD25 in AWS credits. AWS credits will be sent via email by 30 November, 2021.
+
